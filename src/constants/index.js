@@ -161,7 +161,7 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/Atharva2606/E-commerce-ReactJS/tree/main",
+      source_code_link: "https://github.com/Atharva2606/3d-portfolio",
     },
    
   ];
